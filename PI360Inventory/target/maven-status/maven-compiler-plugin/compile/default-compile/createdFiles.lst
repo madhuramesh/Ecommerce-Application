@@ -1,0 +1,4 @@
+com/example/PI360Inventory/Pi360InventoryApplication.class
+com/example/PI360Inventory/domain/Inventory.class
+com/example/PI360Inventory/repo/InventoryRepo.class
+com/example/PI360Inventory/service/InventoryService.class
